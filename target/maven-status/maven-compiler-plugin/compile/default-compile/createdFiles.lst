@@ -1,0 +1,6 @@
+Memory\HouseConfig.class
+Command\HousePos.class
+Command\TabCompleter.class
+Events\HouseProtector.class
+Memory\HouseMemory.class
+com\KYRLA_Ktiw\HousePlugin.class

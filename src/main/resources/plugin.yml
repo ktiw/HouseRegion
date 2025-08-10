@@ -1,0 +1,10 @@
+name: houseplugin
+version: 1.0
+main: com.KYRLA_Ktiw.HousePlugin
+api-version: '1.20'
+author: kyrla
+depend: [Vault]
+commands:
+  house:
+    description: Основная команда для управления домами.
+    usage: /house <set pos1|pos2> | <create|buy>
