@@ -5,5 +5,5 @@
 ## Команды:
 /house set pos1/pos2 — Выделить регион.
 /house buy — Купить выделенный дом.
-
+# Пример:
 <img width="974" height="386" alt="image" src="https://github.com/user-attachments/assets/c5847405-df3f-418c-b642-cabf9930db18" />
